@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Simple ToDo2 List</title>
+	<title>Brian's Awesome To-Do List</title>
 	<link rel="stylesheet" type='text/css' href"CSS/main.css">
 </head>
 <body>
